@@ -17,7 +17,7 @@ fetch('collection.json')
     document.getElementById('item-rating').textContent = book.Rating;
     document.getElementById('item-format').textContent = book.Format;
     document.getElementById('item-read').textContent = book.has_been_read;
-    document.getElementById('item-series').textContent = book.apart_of_series;
+    document.getElementById('item-series').textContent = book.part_of_series;
     document.getElementById('item-series-num').textContent = book.series_number;
 
     // Add JSON-LD metadata
