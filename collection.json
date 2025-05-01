@@ -1,0 +1,562 @@
+[
+  {
+    "Title": "A Court of Thorns and Roses",
+    "Author": "Sarah J. Mass",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "A Court of Mist and Fury",
+    "Author": "Sarah J. Mass",
+    "Genre": "Fantasy",
+    "Rating": 10,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "A Court of Wings and Ruin",
+    "Author": "Sarah J. Mass",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "A Court of Frost and Starlight",
+    "Author": "Sarah J. Mass",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 4
+  },
+  {
+    "Title": "A Court of Silver Flames",
+    "Author": "Sarah J. Mass",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 5
+  },
+  {
+    "Title": "Harry Potter and the Sorcerers Store",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 4
+  },
+  {
+    "Title": "Harry Potter and the Order of Pheonix",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 5
+  },
+  {
+    "Title": "Harry Potter and the Half Blood Prince",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 6
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows",
+    "Author": "J.K. Rowling",
+    "Genre": "Fantasy",
+    "Rating": 10,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 7
+  },
+  {
+    "Title": "Shatter Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Unravel Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Ignite Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Restore Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 4
+  },
+  {
+    "Title": "Defy Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 5
+  },
+  {
+    "Title": "Imagine Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 6
+  },
+  {
+    "Title": "Unite Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": "Novella"
+  },
+  {
+    "Title": "Find Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": "Novella"
+  },
+  {
+    "Title": "Believe Me",
+    "Author": "Tahereh Mafi",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": "Novella"
+  },
+  {
+    "Title": "Fourth Wing",
+    "Author": "Rebecca Yarros",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Iron Flame",
+    "Author": "Rebecca Yarros",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Onyx Storm",
+    "Author": "Rebecca Yarros",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Powerless",
+    "Author": "Lauren Roberts",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Reckless",
+    "Author": "Lauren Roberts",
+    "Genre": "Fantasy",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Powerful",
+    "Author": "Lauren Roberts",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "No",
+    "apart_of_series": "Yes",
+    "series_number": "Novella"
+  },
+  {
+    "Title": "The Cruel Prince",
+    "Author": "Holly Black",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "The Wicked King",
+    "Author": "Holly Black",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "The Queen of Nothing",
+    "Author": "Holly Black",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Genre": "Dystopian Fiction",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Catching Fire",
+    "Author": "Suzanne Collins",
+    "Genre": "Dystopian Fiction",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Mockingjay",
+    "Author": "Suzanne Collins",
+    "Genre": "Dystopian Fiction",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "The Ballad of Songbirds and Snakes",
+    "Author": "Suzanne Collins",
+    "Genre": "Dystopian Fiction",
+    "Rating": 6,
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Historical Fiction",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "No",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "Genre": "Science Fiction",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "DNF",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "The Seven Husbands of Evelyn Hugo",
+    "Author": "Jenkins Reid",
+    "Genre": "Romance",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Lessons in Chemistry",
+    "Author": "Bonnie Garmus",
+    "Genre": "Humor",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Divine Rivals",
+    "Author": "Rebecca Ross",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "DNF",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Ruthless Vows",
+    "Author": "Rebecca Ross",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "No",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "The People We Meet on Vacation",
+    "Author": "Emily Henry",
+    "Genre": "Romance",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "DNF",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Once Upon a Broken Heart",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "The Ballad of Never After",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "A Curse for True Love",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": 5,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Caraval",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Legendary: A Caraval Novel",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Finale: A Caraval Novel",
+    "Author": "Stephanie Garber",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "No",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Lightlark",
+    "Author": "Alex Aster",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Nightbane",
+    "Author": "Alex Aster",
+    "Genre": "Fantasy",
+    "Rating": 8,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Shkyshade",
+    "Author": "Alex Aster",
+    "Genre": "Fantasy",
+    "Rating": 7,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 3
+  },
+  {
+    "Title": "Collide",
+    "Author": "Bal Khabra",
+    "Genre": "Romance",
+    "Rating": 7,
+    "Fomat": "Digital",
+    "has_been_read": "Yes",
+    "apart_of_series": "No",
+    "series_number": 0
+  },
+  {
+    "Title": "Dance of Thieves",
+    "Author": "Mary Pearson",
+    "Genre": "Fantasy",
+    "Rating": 4,
+    "Fomat": "Digital",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "Vow of Thieves",
+    "Author": "Mary Pearson",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Digital",
+    "has_been_read": "DNF",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "The Serpent and the Wings of Night",
+    "Author": "Carissa Broadbent",
+    "Genre": "Fantasy",
+    "Rating": 6,
+    "Fomat": "Physical",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  },
+  {
+    "Title": "The Ashes and the Star-Cursed King",
+    "Author": "Carissa Broadbent",
+    "Genre": "Fantasy",
+    "Rating": "N/A",
+    "Fomat": "Physical",
+    "has_been_read": "DNF",
+    "apart_of_series": "Yes",
+    "series_number": 2
+  },
+  {
+    "Title": "Consider Me",
+    "Author": "Becka Mack",
+    "Genre": "Romance",
+    "Rating": 7,
+    "Fomat": "Digital",
+    "has_been_read": "Yes",
+    "apart_of_series": "Yes",
+    "series_number": 1
+  }
+]
