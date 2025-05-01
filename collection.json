@@ -4,9 +4,9 @@
     "Author": "Sarah J. Mass",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -14,9 +14,9 @@
     "Author": "Sarah J. Mass",
     "Genre": "Fantasy",
     "Rating": 10,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -24,9 +24,9 @@
     "Author": "Sarah J. Mass",
     "Genre": "Fantasy",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -34,9 +34,9 @@
     "Author": "Sarah J. Mass",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 4
   },
   {
@@ -44,9 +44,9 @@
     "Author": "Sarah J. Mass",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 5
   },
   {
@@ -54,9 +54,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -64,9 +64,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -74,9 +74,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -84,9 +84,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 4
   },
   {
@@ -94,9 +94,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 5
   },
   {
@@ -104,9 +104,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 6
   },
   {
@@ -114,9 +114,9 @@
     "Author": "J.K. Rowling",
     "Genre": "Fantasy",
     "Rating": 10,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 7
   },
   {
@@ -124,9 +124,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -134,9 +134,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -144,9 +144,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -154,9 +154,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 4
   },
   {
@@ -164,9 +164,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 5
   },
   {
@@ -174,9 +174,9 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 6
   },
   {
@@ -184,39 +184,39 @@
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
-    "series_number": "Novella"
+    "part_of_series": "Yes",
+    "series_number": 0
   },
   {
     "Title": "Find Me",
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
-    "series_number": "Novella"
+    "part_of_series": "Yes",
+    "series_number": 0
   },
   {
     "Title": "Believe Me",
     "Author": "Tahereh Mafi",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
-    "series_number": "Novella"
+    "part_of_series": "Yes",
+    "series_number": 0
   },
   {
     "Title": "Fourth Wing",
     "Author": "Rebecca Yarros",
     "Genre": "Fantasy",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -224,9 +224,9 @@
     "Author": "Rebecca Yarros",
     "Genre": "Fantasy",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -234,9 +234,9 @@
     "Author": "Rebecca Yarros",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -244,9 +244,9 @@
     "Author": "Lauren Roberts",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -254,29 +254,29 @@
     "Author": "Lauren Roberts",
     "Genre": "Fantasy",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
     "Title": "Powerful",
     "Author": "Lauren Roberts",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "No",
-    "apart_of_series": "Yes",
-    "series_number": "Novella"
+    "part_of_series": "Yes",
+    "series_number": 0
   },
   {
     "Title": "The Cruel Prince",
     "Author": "Holly Black",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -284,9 +284,9 @@
     "Author": "Holly Black",
     "Genre": "Fantasy",
     "Rating": 9,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -294,9 +294,9 @@
     "Author": "Holly Black",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -304,9 +304,9 @@
     "Author": "Suzanne Collins",
     "Genre": "Dystopian Fiction",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -314,9 +314,9 @@
     "Author": "Suzanne Collins",
     "Genre": "Dystopian Fiction",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -324,9 +324,9 @@
     "Author": "Suzanne Collins",
     "Genre": "Dystopian Fiction",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -334,79 +334,79 @@
     "Author": "Suzanne Collins",
     "Genre": "Dystopian Fiction",
     "Rating": 6,
-    "Fomat": "Digital",
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
     "Title": "Pride and Prejudice",
     "Author": "Jane Austen",
     "Genre": "Historical Fiction",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "No",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
     "Title": "Dune",
     "Author": "Frank Herbert",
     "Genre": "Science Fiction",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "DNF",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
     "Title": "The Seven Husbands of Evelyn Hugo",
     "Author": "Jenkins Reid",
     "Genre": "Romance",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
     "Title": "Lessons in Chemistry",
     "Author": "Bonnie Garmus",
     "Genre": "Humor",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
     "Title": "Divine Rivals",
     "Author": "Rebecca Ross",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "DNF",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
     "Title": "Ruthless Vows",
     "Author": "Rebecca Ross",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "No",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
     "Title": "The People We Meet on Vacation",
     "Author": "Emily Henry",
     "Genre": "Romance",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "DNF",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
@@ -414,9 +414,9 @@
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -424,9 +424,9 @@
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -434,39 +434,39 @@
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
     "Rating": 5,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
     "Title": "Caraval",
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
     "Title": "Legendary: A Caraval Novel",
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
     "Title": "Finale: A Caraval Novel",
     "Author": "Stephanie Garber",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "No",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -474,9 +474,9 @@
     "Author": "Alex Aster",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
@@ -484,9 +484,9 @@
     "Author": "Alex Aster",
     "Genre": "Fantasy",
     "Rating": 8,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -494,9 +494,9 @@
     "Author": "Alex Aster",
     "Genre": "Fantasy",
     "Rating": 7,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 3
   },
   {
@@ -504,9 +504,9 @@
     "Author": "Bal Khabra",
     "Genre": "Romance",
     "Rating": 7,
-    "Fomat": "Digital",
+    "Format": "Digital",
     "has_been_read": "Yes",
-    "apart_of_series": "No",
+    "part_of_series": "No",
     "series_number": 0
   },
   {
@@ -514,19 +514,19 @@
     "Author": "Mary Pearson",
     "Genre": "Fantasy",
     "Rating": 4,
-    "Fomat": "Digital",
+    "Format": "Digital",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
     "Title": "Vow of Thieves",
     "Author": "Mary Pearson",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Digital",
+    "Rating": 0,
+    "Format": "Digital",
     "has_been_read": "DNF",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -534,19 +534,19 @@
     "Author": "Carissa Broadbent",
     "Genre": "Fantasy",
     "Rating": 6,
-    "Fomat": "Physical",
+    "Format": "Physical",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   },
   {
     "Title": "The Ashes and the Star-Cursed King",
     "Author": "Carissa Broadbent",
     "Genre": "Fantasy",
-    "Rating": "N/A",
-    "Fomat": "Physical",
+    "Rating": 0,
+    "Format": "Physical",
     "has_been_read": "DNF",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 2
   },
   {
@@ -554,9 +554,9 @@
     "Author": "Becka Mack",
     "Genre": "Romance",
     "Rating": 7,
-    "Fomat": "Digital",
+    "Format": "Digital",
     "has_been_read": "Yes",
-    "apart_of_series": "Yes",
+    "part_of_series": "Yes",
     "series_number": 1
   }
 ]
