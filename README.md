@@ -19,9 +19,14 @@ Series status and order (if part of a series)
 ## Repository File Overview
 
 <b>index.html:</b> Homepage displaying the project intro and links to all books
+
 <b>style.css:</b> Custom styles for layout and visual structure
+
 <b>collection.json:</b> The main dataset containing book metadata and descriptions
+
 <b>script.js:</b> JavaScript that loads the collection and builds homepage links
+
 <b>item-template.html:</b> Template HTML for each individual book detail page
+
 <b>item.js:</b> JavaScript that fills in metadata and description for each item page
 
