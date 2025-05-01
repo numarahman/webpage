@@ -5,16 +5,22 @@ fetch('collection.json')
   .then(response => response.json())
   .then(data => {
     const book = data[id];
-    const container = document.getElementById('book-details');
-    document.title = book.Title;
 
+    document.title = book.Title;
+    document.getElementById('item-title').textContent = book.Title;
+    document.getElementById('item-author').textContent = book.Author;
+    document.getElementById('item-genre').textContent = book.Genre;
+    document.getElementById('item-rating').textContent = book.Rating;
+    document.getElementById('item-format').textContent = book.Format;
+
+    // JSON-LD Metadata
     const metadata = {
       "@context": "https://schema.org",
       "@type": "Book",
       "name": book.Title,
       "author": book.Author,
       "genre": book.Genre,
-      "bookFormat": book.Fomat,
+      "bookFormat": book.Format,
       "aggregateRating": book.Rating !== "N/A" ? { "ratingValue": book.Rating } : undefined,
       "isPartOfSeries": book.apart_of_series === "Yes",
       "readStatus": book.has_been_read
@@ -24,15 +30,4 @@ fetch('collection.json')
     script.type = 'application/ld+json';
     script.textContent = JSON.stringify(metadata);
     document.head.appendChild(script);
-
-    container.innerHTML = `
-      <h1>${book.Title}</h1>
-      <p><strong>Author:</strong> ${book.Author}</p>
-      <p><strong>Genre:</strong> ${book.Genre}</p>
-      <p><strong>Rating:</strong> ${book.Rating}</p>
-      <p><strong>Format:</strong> ${book.Fomat}</p>
-      <p><strong>Read:</strong> ${book.has_been_read}</p>
-      <p><strong>Part of Series:</strong> ${book.apart_of_series}</p>
-      <p><strong>Series Number:</strong> ${book.series_number}</p>
-    `;
   });
