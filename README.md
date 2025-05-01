@@ -9,11 +9,17 @@ Welcome to by digital repository of my personal library archive. This consists o
 This collection over 50 books across genres such as fantasy, romance, dystopian fiction, historical fiction, and science fiction. Most of the books are either physical or digital copies I own, with many being part of popular series. Each book is documented with:
 
 Book Title
+
 Author
+
 Genre
+
 Format (physical or digital)
+
 Reading status (e.g., read, unread, DNF)
+
 Personal rating (if applicable)
+
 Series status and order (if part of a series)
 
 ## Repository File Overview
